@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
         int numero2=0;
         numero1 =Integer.parseInt(editText1.getText().toString());
         numero2 =Integer.parseInt(editText2.getText().toString());
-        int resultado = (numero1+numero2);
-        textView.setText(" Resultado: "+resultado);
+        int sumar = (numero1+numero2);
+        textView.setText(" Resultado: "+sumar);
     }
     });
 
