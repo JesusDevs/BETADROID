@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ALFA</string>
+    <string name="app_name">ALFA Calculadora</string>
     <string name="hola_clase">HOLA CLASE</string>
-    <string name="hola_mundo_157_1">hola mundo 157-1</string>
+    <string name="hola_mundo_157_1">ingrese numeros</string>
 </resources>
